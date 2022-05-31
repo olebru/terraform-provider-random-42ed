@@ -7,7 +7,7 @@ require (
 	github.com/google/go-cmp v0.5.8
 	github.com/hashicorp/go-uuid v1.0.3
 	github.com/hashicorp/terraform-plugin-docs v0.8.1
-	github.com/hashicorp/terraform-plugin-sdk/v2 v2.16.1-0.20220527155737-8a0031d0a59f
+	github.com/hashicorp/terraform-plugin-sdk/v2 v2.17.0
 	golang.org/x/crypto v0.0.0-20210616213533-5ff15b29337e
 )
 
